@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 19, 2022 6:56 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.7.2
+WORDPRESS:	6.0.1
+PHP INFO:	7.4.30 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 2MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20220819_medilink_bff2b22cdfe806d21725_20220819065547_database.sql
+SQL FILE SIZE: 25.87MB (27123237)
+SQL FILE TIME: 2022-08-19 06:56:02
+SQL RUNTIME: 0.49 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /var/www/html
+ARCHIVE FILE: 20220819_medilink_bff2b22cdfe806d21725_20220819065547_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	171.25MB
+STATS:	Dirs 1,597 | Files 8,542 | Total 10,139
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files7
+add_extra_files_using_da1
+Adding enhanced installer files to archive using DupArchive
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 72.89MB
+ARCHIVE RUNTIME: 19.83 sec.
+MEMORY STACK: 4MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 25.87MB
+INSTALLER FILE: 78.6KB
+ARCHIVE FILE: 72.89MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,328
+ACTUAL FILE/DIRECTORY COUNT: 10,328
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 19.85 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20220819_medilink 2022-08-19 06:56:21
+
